@@ -1,0 +1,2 @@
+# AI-Based-Automated-Multi-Organ-Segmentation-in-Medical-Imaging-using-UNet-ResNet34
+AI-based multi-organ segmentation using UNet-ResNet34 automates liver, pancreas, and tumor delineation in CT scans, achieving 88.2% validation Dice. Pixel-based balancing, patch extraction, and progressive training enable rapid, accurate, and clinically viable segmentation, reducing radiologist workload from hours to minutes.
